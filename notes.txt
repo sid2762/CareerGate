@@ -1,0 +1,11 @@
+resume
+marksheet details
+update the database schema properly
+separate the navbar for admin panel and user panel 
+make sure user applies single time only
+saved posts, applied posts
+applied/apply button
+input for year to show posts
+profile making and updating 
+timer for session
+filter for admin : year, branch, company
